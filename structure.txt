@@ -1,0 +1,19 @@
+tic-tac-toe/
+├── node_modules/
+├── app/
+│   ├── components/
+│   │   ├── TicTacToe.css
+│   │   └── TicTacToe.js
+│   ├── fonts/
+│   │   ├── GeistMonoVF.woff
+│   │   └── GeistVF.woff
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.js
+│   ├── page.js
+│   └── page.module.css
+├── README.md
+├── jsconfig.json
+├── next.config.mjs
+├── package-lock.json
+└── package.json
