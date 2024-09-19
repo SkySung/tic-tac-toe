@@ -19,7 +19,7 @@ jobs:
           host: ${{ secrets.VM_HOST }}
           username: ${{ secrets.VM_USER }}
           key: ${{ secrets.VM_SSH_KEY }}
-          source: "out/"
+          source: "out/*"
           target: /var/www/html/tic-tac-toe/
           strip_components: 1  # 移除 out/ 路徑組件
           rm: true
