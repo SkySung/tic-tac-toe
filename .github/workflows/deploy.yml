@@ -21,6 +21,6 @@ jobs:
           key: ${{ secrets.VM_SSH_KEY }}
           source: "out/*"
           target: /var/www/html/tic-tac-toe/
+          overwrite: true
           strip_components: 1  # 移除 out/ 路徑組件
-          rm: true
 
