@@ -2,6 +2,8 @@ tic-tac-toe/
 ├── node_modules/
 ├── app/
 │   ├── components/
+│   │   ├── GameBoard.css
+│   │   ├── GameBoard.js
 │   │   ├── TicTacToe.css
 │   │   └── TicTacToe.js
 │   ├── fonts/
@@ -12,6 +14,14 @@ tic-tac-toe/
 │   ├── layout.js
 │   ├── page.js
 │   └── page.module.css
+├── out/
+│   ├── _next/
+│   │   ├── static/
+│   │   └── wGo5XBBIVIgGdAyq6RfXx/
+│   ├── 404.html
+│   ├── favicon.ico
+│   ├── index.html
+│   └── index.txt
 ├── README.md
 ├── jsconfig.json
 ├── next.config.mjs
