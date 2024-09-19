@@ -19,5 +19,5 @@ const GameBoard = React.memo(({ board, onClick, isClickable = true, size = "larg
   );
 });
 
-
+GameBoard.displayName = "GameBoard";
 export default GameBoard;
