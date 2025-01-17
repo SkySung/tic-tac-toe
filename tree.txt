@@ -1,0 +1,41 @@
+tic-tac-toe/
+├── node_modules/
+├── app/
+│   ├── components/
+│   │   ├── ui/
+│   │   ├── GameAI.js
+│   │   ├── GameBoard.css
+│   │   ├── GameBoard.js
+│   │   ├── GameLogic.js
+│   │   ├── TicTacToe.css
+│   │   ├── TicTacToe.js
+│   │   ├── game.module.css
+│   │   └── useGame.js
+│   ├── fonts/
+│   │   ├── GeistMonoVF.woff
+│   │   └── GeistVF.woff
+│   ├── lib/
+│   │   └── utils.js
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.js
+│   ├── page.css
+│   └── page.js
+├── out/
+│   ├── _next/
+│   │   ├── e2Yju7IPEMFLL2qJlS62-/
+│   │   └── static/
+│   ├── 404.html
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── index.txt
+│   ├── structure.sh
+│   └── structure.txt
+├── README.md
+├── components.json
+├── jsconfig.json
+├── next.config.mjs
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+└── tailwind.config.js
