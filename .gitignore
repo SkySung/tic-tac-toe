@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#User config
+nextjs-project.tar.gz
+tree.sh
+tree.txt
